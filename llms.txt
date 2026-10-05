@@ -1,0 +1,23 @@
+# Nimmee
+
+> Nimmee is the AI brand and growth manager for local businesses, run from WhatsApp. It is launching soon and is not open yet. A waitlist is open.
+
+## What it is being built to do
+- Remember your business: offers, hours, tone and what customers keep asking. Confirmed by the owner, stored per business, always editable.
+- Run your brand: a brand kit, then a steady stream of posts that look like the business, scheduled once the owner approves them.
+- Catch every lead: customer messages and follow-ups in one inbox, with replies drafted from what it knows about the business.
+- Work on WhatsApp: voice onboarding, approvals and alerts in the app owners already use, plus a light web view for calendar, leads and brand kit.
+
+## Owner control
+- Posts and replies wait for the owner's approval before anything goes out.
+- The owner can see, edit and delete everything Nimmee knows about the business.
+- No lock-in: the brand kit and content stay with the owner.
+
+## Status
+- Not launched. No public pricing, clients or customer results exist yet.
+
+## Pages
+- [Home](https://nimmee.com/): the single launch page, with the waitlist form.
+
+## Contact
+- Nimmee.india@gmail.com
