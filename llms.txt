@@ -1,23 +1,24 @@
 # Nimmee
 
-> Nimmee is the AI brand and growth manager for local businesses, run from WhatsApp. It is launching soon and is not open yet. A waitlist is open.
+> Nimmee is building AI automation agents for businesses. Its first product, Lineage, is an agent that maintains business memory and generates content and operations from it. Nimmee is prelaunch; a waitlist is open at nimmee.com.
 
-## What it is being built to do
-- Remember your business: offers, hours, tone and what customers keep asking. Confirmed by the owner, stored per business, always editable.
-- Run your brand: a brand kit, then a steady stream of posts that look like the business, scheduled once the owner approves them.
-- Catch every lead: customer messages and follow-ups in one inbox, with replies drafted from what it knows about the business.
-- Work on WhatsApp: voice onboarding, approvals and alerts in the app owners already use, plus a light web view for calendar, leads and brand kit.
+Nimmee is the company and product brand; Lineage is its first product. The current landing page presents Nimmee's WhatsApp-based AI brand and growth manager for local businesses. It describes the intended brand, content and lead-management experience, not a currently available service.
 
-## Owner control
-- Posts and replies wait for the owner's approval before anything goes out.
-- The owner can see, edit and delete everything Nimmee knows about the business.
-- No lock-in: the brand kit and content stay with the owner.
+Lineage maintains business memory and uses that context to generate content and operations for businesses. As of October 7, 2026, its launch is planned within one to two weeks. This is a planned launch window, not a confirmation that the product is available.
 
-## Status
-- Not launched. No public pricing, clients or customer results exist yet.
+The wider Nimmee experience described on the landing page is being built to remember business details, draft brand content and lead replies, and support owner approvals through WhatsApp with a light web view. Posts and replies are intended to require the owner's approval before publication or sending.
 
-## Pages
-- [Home](https://nimmee.com/): the single launch page, with the waitlist form.
+Nimmee started in September 2026 and is currently unregistered and prelaunch. As of October 7, 2026, registration is planned within approximately six months. These descriptions are product plans, not claims of existing customer results, client numbers or revenue. Public pricing has not been announced.
+
+## Product
+
+- [Product overview and waitlist](https://nimmee.com/): The current single-page landing site describes Nimmee's planned WhatsApp-based brand and growth manager and offers a launch waitlist. It does not yet have a separate Lineage product page.
+
+## About
+
+- [About Nimmee](https://nimmee.com/): The same landing page introduces the brand and intended business-owner experience. There is no separate About page yet.
 
 ## Contact
-- Nimmee.india@gmail.com
+
+- [Contact Nimmee](mailto:Nimmee.india@gmail.com): The public contact email listed on the landing page.
+- [Launch updates](https://nimmee.com/): Join the waitlist on the home page.
