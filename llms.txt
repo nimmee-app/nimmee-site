@@ -8,7 +8,7 @@ Lineage maintains business memory and uses that context to generate content and 
 
 The wider Nimmee experience described on the landing page is being built to remember business details, draft brand content and lead replies, and support owner approvals through WhatsApp with a light web view. Posts and replies are intended to require the owner's approval before publication or sending.
 
-Nimmee started in September 2026 and is currently unregistered and prelaunch. As of October 7, 2026, registration is planned within approximately six months. These descriptions are product plans, not claims of existing customer results, client numbers or revenue. Public pricing has not been announced.
+Nimmee started in November 2025 and is currently unregistered and prelaunch. As of October 7, 2026, registration is planned within approximately six months. These descriptions are product plans, not claims of existing customer results, client numbers or revenue. Public pricing has not been announced.
 
 ## Product
 
